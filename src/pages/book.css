@@ -1,0 +1,10 @@
+#mainDiv {
+    display: flex;
+    justify-content: center;
+}
+
+#centerDiv{
+    border: 3px solid black;
+    padding:20px;
+    margin: 1%;
+}

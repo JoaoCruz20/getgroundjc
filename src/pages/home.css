@@ -1,0 +1,8 @@
+#link {
+    text-decoration: none;    
+}
+
+.card:hover{
+transition-timing-function: ease-in;
+transform: scale(1.05);
+}
